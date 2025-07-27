@@ -27,7 +27,7 @@ This will contain all the course list  from Udemy, Oreilly, Coursera
 
 
   - Spring
-    - [Spring and Spring Boot in 3 Weeks](https://learning.oreilly.com/live-events/spring-and-spring-boot-in-3-weeks/0636920055088/))
+    - [Spring and Spring Boot in 3 Weeks](https://learning.oreilly.com/live-events/spring-and-spring-boot-in-3-weeks/0636920055088/)
     - [Hands-On Spring Boot in 3 Weeks](https://learning.oreilly.com/live-events/hands-on-spring-boot-in-3-weeks/0636920061597/0642572181130/?utm_medium=email&utm_source=platform+b2c&utm_campaign=engagement&utm_content=lot+recording)
     - [Java Microservices with Spring in 2 Weeks](https://learning.oreilly.com/live-events/java-microservices-with-spring-in-2-weeks/0642572005630/)
     - 
