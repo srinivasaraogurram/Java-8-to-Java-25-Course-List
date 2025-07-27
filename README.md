@@ -23,8 +23,11 @@ This will contain all the course list  from Udemy, Oreilly, Coursera
 - JAVA AI
   - [GenAI for Busy Java Developers, presented by Frank Greco](https://learning.oreilly.com/live-events/genai-for-busy-java-developers/0642572177317/0642572177300/?utm_medium=email&utm_source=platform+b2c&utm_campaign=engagement&utm_content=lot+recording)
   - [Integrating AI in Java Projects](https://learning.oreilly.com/live-events/integrating-ai-in-java-projects/0642572001330/0642572199364/)
+  - [Copilot and ChatGPT for Java and C#](https://learning.oreilly.com/live-events/copilot-and-chatgpt-for-java-and-c-developers/0642572004454/0642572012164/?utm_medium=email&utm_source=platform+b2c&utm_campaign=engagement&utm_content=lot+recording)
 
 
   - Spring
-    - [Spring and Spring Boot in 3 Weeks](Spring and Spring Boot in 3 Weeks)
+    - [Spring and Spring Boot in 3 Weeks](https://learning.oreilly.com/live-events/spring-and-spring-boot-in-3-weeks/0636920055088/))
+    - [Hands-On Spring Boot in 3 Weeks](https://learning.oreilly.com/live-events/hands-on-spring-boot-in-3-weeks/0636920061597/0642572181130/?utm_medium=email&utm_source=platform+b2c&utm_campaign=engagement&utm_content=lot+recording)
+    - [Java Microservices with Spring in 2 Weeks](https://learning.oreilly.com/live-events/java-microservices-with-spring-in-2-weeks/0642572005630/)
     - 
